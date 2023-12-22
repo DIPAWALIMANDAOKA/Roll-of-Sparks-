@@ -1,0 +1,26 @@
+*{
+    margin-top: 50px;
+  }
+
+#playerNameInput {
+    height: 20px;
+    width: 30%;
+    border: none;
+    border-bottom: 5px solid red;
+    border-radius: 0;
+    background-color: transparent;
+    outline: none; /* Remove default focus border */
+    margin-bottom: 20px; /* Adjust as needed */
+    font-size: large;
+    font-weight: 500px;
+    color: #4ECCA3;
+    text-align: center;
+  }
+  
+  /* Style the "Let's Go" button */
+  button {
+    padding: 10px; 
+    border-radius: 9px;
+    background-color:#67c99d;
+  }
+  
